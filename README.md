@@ -1,0 +1,2 @@
+# Praktika
+ versioonihalduse harjutamisega GitHubis
