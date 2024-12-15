@@ -1,2 +1,4 @@
 GitHub on veebiplatvorm koodi salvestamiseks ja sellega koostöö tegemiseks, kasutades Giti versioonikontrollisüsteemi.
 GitHubi kasutajad: arendajad, üliõpilased, teadlased ja meeskonnad, kes soovivad projekte tõhusalt hallata ja koodimuutusi jälgida.
+GitHubi asutasid 2008. aastal Tom Preston-Werner, Chris Wanstraet, PJ Highett ja Scott Chakrieff. 2018. aastal omandas ettevõtte Microsoft. 
+Platvorm on muutunud populaarseks tänu oma mugavusele projektijuhtimises ja koostööarenduses.
