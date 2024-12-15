@@ -1,2 +1,2 @@
-GitHub on veebiplatvorm koodi salvestamiseks ja sellega koostöö tegemiseks, kasutades Giti versioonikontrollisüsteemi.
-GitHubi kasutajad: arendajad, üliõpilased, teadlased ja meeskonnad, kes soovivad projekte tõhusalt hallata ja koodimuutusi jälgida.
+GitHubi abil saate projekte salvestada, koodi kallal koostööd teha ja muudatusi jälgida.
+See sobib arendajatele, õpilastele ja meeskondadele, kes töötavad tarkvara või dokumentatsiooni kallal.
